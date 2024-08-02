@@ -1,0 +1,19 @@
+/*Estrutura do site*/
+body {
+  background: #f4f2ec url(../imagens/img/fundo.png) repeat-x;
+  font: 12px "Lucinda Grande", "Lucinda Sans Unicode", Arial, sans-serif;
+}
+
+#conteiner {
+  width: 1080px;
+  margin: 0 auto;
+}
+
+/*Logo*/
+#logo a {
+  width: 248px;
+  height: 21px;
+  text-indent: -9999px;
+  display: block;
+  background: url(../imagens/img/logo.png) no-repeat;
+}/*# sourceMappingURL=estilo.css.map */
